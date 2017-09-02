@@ -1,0 +1,4 @@
+project=principle_of_explosion
+architecture=container
+test=rspec
+template=haml
