@@ -1,0 +1,6 @@
+- if posts.empty?
+  %p= 'No posts yet!'
+- posts.each do |post|
+  .post
+    %h2#title= post.title
+    #body= post.body

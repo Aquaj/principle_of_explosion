@@ -8,6 +8,8 @@ gem 'pg'
 
 gem 'haml'
 
+gem 'factory_girl'
+
 group :development do
   # Code reloading
   # See: http://hanamirb.org/guides/projects/code-reloading
